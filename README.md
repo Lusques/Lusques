@@ -11,6 +11,7 @@
   <img align="center" alt="Lusques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lusques-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lusques-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="lusques_voo.gif">
 </div>
   
   ##
