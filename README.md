@@ -1,33 +1,17 @@
-## Olá! Seja bem vindo ao meu perfil! Sou Lucas 😎🎉
+## Olá! Seja bem vindo ao meu perfil! 😎🎉
 <div align="center">
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="#">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=monokai" />
-  </a>
 </div>
 <div style="display: inline_block"><br>
-  <a href="#" style="width: 0px;">
-    <img align="center" alt="Lusques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="#">
-    <img align="center" alt="Lusques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  <a href="#">
-    <img align="center" alt="Lusques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  <a href="#">
-    <img align="center" alt="Lusques-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="#">
-    <img align="center" alt="Lusques-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  </a>
-  <a href="#">
-    <img align="right" alt="lusques-pic" height="150" style="border-radius:50%" src="lusques_voo.gif">
-  </a>
+  <img align="center" alt="Lusques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lusques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lusques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lusques-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lusques-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  <img align="right" alt="lusques-pic" height="150" style="border-radius:50%" src="lusques_voo.gif">
 </div>
-</a>
 
 ##
 
@@ -45,6 +29,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
