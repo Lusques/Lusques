@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo ao meu perfil! Sou Lucas 😎🎉
-<a href="#">
+<a href="#" style="color: rgba(0, 0, 0, 0);">
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=monokai"/>
