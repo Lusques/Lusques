@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu perfil! Sou Lucas 😎🎉
 <div align="center">
-  <a href="#" style="color: white;">
+  <a href="#">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
   </a>
   <a href="#">
@@ -8,7 +8,7 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <a href="#" style="color: white;">
+  <a href="#" style="width: 0px;">
     <img align="center" alt="Lusques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   <a href="#">
