@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu perfil! Sou Lucas 😎🎉
 <div align="center">
-  <a href="#">
+  <a href="#" style="color: white;">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
   </a>
   <a href="#">
