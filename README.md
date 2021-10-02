@@ -8,7 +8,7 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <a href="#">
+  <a href="#" style="color: white;">
     <img align="center" alt="Lusques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   <a href="#">
@@ -35,11 +35,7 @@
   <a href="https://www.linkedin.com/in/lucas-carlos-76aba0165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<style>
-  a{
-    color: white;
-  }
-</style>
+
 <!--
 **Lusques/Lusques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
