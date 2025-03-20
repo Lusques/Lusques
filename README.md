@@ -13,4 +13,16 @@
     <img align="left" alt="Lusques-Python" width="48%" src="public/about__projects--card-0.svg">
     <img align="right" alt="Lusques-Python" width="48%" src="public/about__projects--card-1.svg">
   </div>
+  <img alt="Lusques-Python" height="24px" width="100%" src="public/space.svg">
+  <img align="center" alt="Lusques-Python" heigth="1px" width="100%" src="public/line.svg">
+  <img alt="Lusques-Python" height="24px" width="100%" src="public/space.svg">
+</div>
+<div class="badges">
+  <img alt="Lusques-Python" width="291px" src="public/about__badges--title.svg">
+  <img alt="Lusques-Python" height="24px" width="100%" src="public/space.svg">
+  <div class="row">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img alt="Lusques-Python" height="24px" width="30px" src="public/space.svg">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=dark" />
+  </div>
 </div>
