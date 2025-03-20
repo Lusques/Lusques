@@ -25,4 +25,22 @@
     <img alt="Lusques-Python" height="24px" width="30px" src="public/space.svg">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=dark" />
   </div>
+  <img alt="Lusques-Python" height="48px" width="100%" src="public/space.svg">
+  <img align="center" alt="Lusques-Python" heigth="1px" width="100%" src="public/line.svg">
+</div>
+<div class="footer">
+  <p align="center">
+    <img alt="Lusques-Python" width="540px" src="public/footer__content--text.png">
+  </p>
+  <p align="center">
+    <a href="https://wa.me/+5511951233225" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="public/mdi_whatsapp.svg">
+    </a>
+    <a href="mailto:lucascarlosjobs@gmail.com?subject=Queremos que você seja o próximo Front-End da nossa equipe!" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="public/mdi_email.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/lucascarlosdev/" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="public/mdi_linkedin.svg">
+    </a>
+  </p>
 </div>
