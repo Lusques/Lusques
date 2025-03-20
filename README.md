@@ -12,7 +12,7 @@
 </a>
 <div class="projects">
   <div class="row">
-    <a href="https://github.com/Lusques/mjml-curriculum-template" target="__blank">
+    <a href="https://github.com/Lusques/vue-smart-finance-dashboard" target="__blank">
       <img align="left" alt="card" width="395px" src="public/about__projects--card-0.svg">
     </a>
     <a href="https://github.com/Lusques/mjml-curriculum-template" target="__blank">
