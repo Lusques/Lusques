@@ -13,10 +13,10 @@
 <div class="projects">
   <div class="row">
     <a href="https://github.com/Lusques/mjml-curriculum-template" target="__blank">
-      <img align="left" alt="card" width="48%" src="public/about__projects--card-0.svg">
+      <img align="left" alt="card" width="400px" src="public/about__projects--card-0.svg">
     </a>
     <a href="https://github.com/Lusques/mjml-curriculum-template" target="__blank">
-      <img align="right" alt="card" width="48%" src="public/about__projects--card-1.svg">
+      <img align="right" alt="card" width="400px" src="public/about__projects--card-1.svg">
     </a>
   </div>
   <a href=""#>
@@ -33,9 +33,11 @@
       <img alt="blank" height="24px" width="100%" src="public/space.svg">
     </a>
     <div class="row">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      <img alt="blank" height="24px" width="30px" src="public/space.svg">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=dark" />
+      <p align="center">
+        <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Lusques&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+        <img align="center" alt="blank" height="24px" width="30px" src="public/space.svg">
+        <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusques&layout=compact&langs_count=7&theme=dark" />
+      </p>
     </div>
     <img alt="blank" height="48px" width="100%" src="public/space.svg">
     <img align="center" alt="line" heigth="1px" width="100%" src="public/line.svg">
